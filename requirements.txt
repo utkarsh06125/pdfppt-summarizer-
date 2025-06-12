@@ -1,7 +1,4 @@
-Flask
-flask-cors
-transformers
-torch
-PyMuPDF
+flask
+openai
 python-pptx
-waitress
+PyMuPDF
