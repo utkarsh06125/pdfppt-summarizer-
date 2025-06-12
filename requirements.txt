@@ -1,0 +1,7 @@
+Flask
+flask-cors
+transformers
+torch
+PyMuPDF
+python-pptx
+waitress
