@@ -1,4 +1,5 @@
-flask
-openai
+Django
 python-pptx
 PyMuPDF
+openai
+python-dotenv
